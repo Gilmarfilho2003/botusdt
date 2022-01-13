@@ -138,10 +138,10 @@ print(
 
 
 #password()
-print("\n\n\033[1;37Comece a ganhar eth.....!")
+print("\n\n\033[1;37Comece a ganhar USDT.....!")
 try:
-    channel_entity = client.get_entity("@Ethereumclickbot_bot")
-    channel_username = "@Ethereumclickbot_bot"
+    channel_entity = client.get_entity("@hkearn_usdt_bot")
+    channel_username = "@hkearn_usdt_bot"
     for i in range(5000000):
         sys.stdout.write("\r")
         sys.stdout.write(
